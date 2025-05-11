@@ -5,3 +5,5 @@ mypy==0.910
 pylint==2.10.2
 pytest==5.4.1
 pytest-cov==2.8.1
+datasets==3.6.0
+pytorch-lightning==1.9.5
